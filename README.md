@@ -1,0 +1,2 @@
+# SpringMVCHibernateWithSpringSecrity
+这个项目可以作为您自己的Spring MVC项目集成 Spring Security 模板
